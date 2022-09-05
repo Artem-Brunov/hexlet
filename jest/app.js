@@ -5,7 +5,7 @@ function getClass() {
       this.b = b;
     }
     #met() {
-      console.log('met');
+      console.log('met-bet');
     }
 
     gg() {
