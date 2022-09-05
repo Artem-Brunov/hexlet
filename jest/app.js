@@ -11,6 +11,9 @@ function getClass() {
     gg() {
       this.#met();
     }
+    bgg() {
+      
+    }
   }
 
   return new Test();
