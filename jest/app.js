@@ -1,7 +1,8 @@
 function getClass() {
   class Test {
-    constructor() {
-
+    constructor(a,b) {
+      this.a = a;
+      this.b = b;
     }
     #met() {
       console.log('met');
